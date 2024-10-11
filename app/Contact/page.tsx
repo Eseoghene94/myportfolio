@@ -64,7 +64,7 @@ const Contact = () => {
             value={formData.message}
             onChange={handleChange}
             className="w-full p-2 pl-10 mb-4 border border-slate-700 bg-slate-800 text-gray-200 placeholder-gray-500 rounded-md focus:outline-none"
-            rows="4"
+            rows={4}
             required
           ></textarea>
         </div>
