@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio! As a passionate full-stack developer with over 6
 ## 🚀 Projects
 Explore a diverse range of projects, including:
 
-- **Multi-Vendor Bookstore**: A fully functional e-commerce platform that allows multiple vendors to sell their products, built with Next.js, Prisma, and Tailwind CSS.
+- **Fully Functional Ecommerce Store**: A fully functional e-commerce platform that allows multiple vendors to sell their products, built with Next.js, Prisma, and Tailwind CSS.
 - **Personal Portfolio Website**: A visually appealing and responsive portfolio showcasing my skills, projects, and blog articles. Built with Next.js and Framer Motion for smooth animations.
 - **Tech Stack Visualizer**: An interactive display of my skills and proficiency levels using circular progress bars and icons from my favorite technologies.
 
